@@ -1,3 +1,4 @@
 books/
 .vscode
-__pychace__
+/__pychace__
+*.pyc
